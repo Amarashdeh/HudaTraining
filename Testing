@@ -1,2 +1,7 @@
 Testing
+<<<<<<< HEAD
 New Branch "Development" 
+=======
+New Branch "Design" 
+This is a new line to be merged
+>>>>>>> design
